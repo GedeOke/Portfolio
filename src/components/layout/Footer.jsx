@@ -32,7 +32,7 @@ export default function Footer(){
             </div>
         </div>
         <div className="text-center py-5 border  border-t-slate-700 border-x-0 border-b-0">
-            <p>© 2024 AI Portfolio. All rights reserved.</p>
+            <p>© Gede Oke. All rights reserved.</p>
         </div>
         </div>
     )

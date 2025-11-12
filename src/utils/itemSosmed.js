@@ -3,15 +3,15 @@ import { FaGithub,FaLinkedin, FaInstagram } from "react-icons/fa";
 const itemSosmed=[
     {
         Icon:FaGithub,
-        href:"",
+        href:"https://github.com/GedeOke?tab=repositories",
     },
     {
         Icon:FaLinkedin,
-        href:"",
+        href:"https://www.linkedin.com/in/gede-oke/",
     },
     {
         Icon:FaInstagram,
-        href:"",
+        href:"https://www.instagram.com/_gedeoke?igsh=M2ZveXkyZG54OW44",
     },
 ]
 
